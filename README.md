@@ -1,3 +1,19 @@
+# 1. Standing up your stack
+
+[Github Repo URL](https://github.com/theroryn/ServoSaver)
+[Vercel Deployment URL](https://servo-saver-plum.vercel.app/)
+[Supabase Project Dashboard URL](https://supabase.com/dashboard/project/xcslgytkpvmzsxnjdkgm)
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
