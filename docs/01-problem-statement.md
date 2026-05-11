@@ -1,10 +1,18 @@
-**Who has this problem?:** The problem of finding the cheapest fuel including all costs affects all people who operate PMV's and pay for fuel, with very confusing 
+**Who has this problem?:** The problem of finding the cheapest fuel including all costs (including travel costs) affects all people who operate PMV's and pay for fuel, since petrol/diesel is very competitively priced people struggle to find the cheapest petrol because of the 'hidden' cost of the drive such as the fuel cost associated with the drive along with the time cost associated.
 
-**What do they currently do?:** Describe the workaround or the absence of one. This is where the problem becomes concrete instead of abstract 
+**What do they currently do?:** Currently people will either go to the local servo and hope they get a good price or use the NSW fuelcheck app and find the cheapest station based off price nearby, often forgoing the time cost involved.
 
-**Why do current approaches fall short?:** Name the failure modes: friction, errors, omissions, time cost. This sets up what your solution actually has to improve.
+**Why do current approaches fall short?:** The current approaches fall short at there is no understanding of the actual cost involved with driving to the petrol station, this means people may drive further to think they save a few cents per litre, but actually spend more than the savings and since they have to drive to the station, they also 'spend' the time to get to and from the station.
 
+---
 
 **In scope (5 to 7 features):** The features you commit to delivering by Week 9. Each one a one-line description plus a sentence on why it earns its place in v1.
+
+
+| Must have | Nice to have |
+| --- | --- |
+|<li> User able to put current location and destination(Optional) to find cheapest fuel nearby | <li> Test |
+
+
 
 **Out of scope (3 to 5 features):** Features you are deliberately excluding. Each one a sentence on why it is real product value but does not earn its place this term.
