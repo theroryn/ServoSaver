@@ -11,8 +11,10 @@
 
 | Must have | Nice to have |
 | --- | --- |
-|<li> User able to put current location and destination(Optional) to find cheapest fuel nearby | <li> Test |
-
+|<li> User able to put current location to find cheapest fuel nearby | <li> App shows average statistics on fuel savings in the area based off data available |
+|<li> Ability to choose a destination and route via the cheapest fuel | <li> Users can sign in with SSO or passkey |
+|<li> User able to sign in to access a personalised screen that shows their history | --- |
+| --- | --- |
 
 
 **Out of scope (3 to 5 features):** Features you are deliberately excluding. Each one a sentence on why it is real product value but does not earn its place this term.
