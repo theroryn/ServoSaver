@@ -11,10 +11,16 @@
 
 | Must have | Nice to have |
 | --- | --- |
-|<li> User able to put current location to find cheapest fuel nearby | <li> App shows average statistics on fuel savings in the area based off data available |
+|<li> User able to put a start/current location to find cheapest fuel nearby | <li> App shows average statistics on fuel savings in the area based off data available |
 |<li> Ability to choose a destination and route via the cheapest fuel | <li> Users can sign in with SSO or passkey |
-|<li> User able to sign in to access a personalised screen that shows their history | --- |
-| --- | --- |
-
+|<li> User can securely sign in to an account | <li>  |
+| <li> User able to sign in to access a personalised screen that shows their history | <li> Users can input their license plate and automatically have their vehicle (& fuel economy) selected |
+| <li> Users can share the deal/screen via a link to others | --- |
+| <li> Users can filter by fuel type to find cheapest fuel
+| <li> Users can select their vehicle model and automatically fill the fuel economy section
 
 **Out of scope (3 to 5 features):** Features you are deliberately excluding. Each one a sentence on why it is real product value but does not earn its place this term.
+
+- Previous station price - NSW API doesn't support this capability
+- Fuel 'price lock' - Only some service stations support this feature therefore would become unreliable
+- 
